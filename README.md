@@ -25,6 +25,8 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
+# NAME :- MANGARI DEERAJ
+# REG NO:_ 212223100031
 ```
 python
 
